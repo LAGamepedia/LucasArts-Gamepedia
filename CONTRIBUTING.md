@@ -2,7 +2,7 @@
 
 ## 💥 How to Contribute
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]
 
 - Take a look at the existing Issues or create a new issue!
@@ -18,4 +18,4 @@ In order to discuss changes, you are welcome to open an issue about what you wou
 
 ## All the best! 🥇
 
-[![built with love]()]
+[![built with love]]
