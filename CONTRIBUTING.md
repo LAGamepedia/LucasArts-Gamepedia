@@ -18,4 +18,4 @@ In order to discuss changes, you are welcome to open an issue about what you wou
 
 ## All the best! 🥇
 
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)]
+![built with love](https://forthebadge.com/images/badges/built-with-love.svg)
