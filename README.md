@@ -8,5 +8,5 @@ Enciclopedia Digital de los viejos juegos de Lucas
 > - ### Tips & Tricks
 
 ## Juegos relevados
-- Maniac Mansion (1987)
+- ![Maniac Mansion (1987)](/Maniac/)
 
